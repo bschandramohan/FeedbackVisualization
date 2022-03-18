@@ -1,0 +1,29 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  padding: 25px;
+  font-size: 1.5em;
+ /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  color: rgb(190, 180, 180);
+  background-color: rgb(15, 25, 40);
+}
+hr {
+  color: rgb(190, 180, 180);
+  background-color: rgb(190, 180, 180);
+}
+h1 {
+  text-align: center;
+  font-size: 3.5em;
+  display: block;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+A {
+    color: rgb(190, 180, 180);
+}
